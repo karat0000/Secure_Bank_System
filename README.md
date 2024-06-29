@@ -6,7 +6,7 @@ Sure, here's a template for a README.md file for your project:
 
 ## Description
 
-This project is aimed at [briefly describe the purpose of the project]. It utilizes [mention the technologies or frameworks used, e.g., Django, React, Firebase] for backend, frontend, and database management. The project enables users to [briefly describe the main functionalities or features of the project].
+This project is aimed at creating a Bank website. It utilizes  Django, React, and Firebase for backend, frontend, and database management. The project enables users to transfer money for users and create bills.
 
 ## Table of Contents
 
